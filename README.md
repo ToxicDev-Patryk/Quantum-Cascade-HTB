@@ -1,6 +1,6 @@
 <img src='https://github.com/hackthebox/public-templates/blob/master/assets/banner.png' style='zoom: 80%;' align=left /> <font size='10'>Quantum Cascade</font>
 
-1<sup>st</sup> August 2023
+12<sup>st</sup> October 2024
 
 Prepared By: PatrykToxicDev
 
