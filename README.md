@@ -76,13 +76,13 @@ Apply the reverse transformations to decrypt the encrypted byte sequence.
 
 The attack explained above can be implemented with the following code:
 
-```def reverse_key_mixing(mixed_key, original_keys):
+``def reverse_key_mixing(mixed_key, original_keys):
     # Implement the logic to reverse the key mixing process
-    pass```
+    pass``
 
-```def decrypt(encrypted_data, mixed_key):
+``def decrypt(encrypted_data, mixed_key):
     # Implement the logic to decrypt the encrypted data using the reversed keys
-    pass```
+    pass``
     
 ## Getting the flag (!)
 A final summary of all that was said above:
@@ -95,7 +95,7 @@ Apply reverse transformations to decrypt the encrypted message.
 
 This recap can be represented by code using pwn() function:
 
-```def pwn():
+``def pwn():
     mixed_key = reverse_key_mixing(mixed_key_from_server, original_keys)
     flag = decrypt(encrypted_flag, mixed_key)
-    print(flag)```
+    print(flag)``
