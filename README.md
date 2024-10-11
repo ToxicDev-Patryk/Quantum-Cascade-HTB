@@ -6,7 +6,7 @@ Prepared By: PatrykToxicDev
 
 Challenge Author(s): PatrykToxicDev
 
-Difficulty: <font color='orange'>Medium</font>
+Difficulty: <font color='orange'>Hard</font>
 
 <br><br>
 
